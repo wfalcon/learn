@@ -1,0 +1,3 @@
+Парсер логов Apache2 для сервера Dedicated
+Запуск: apache_log_parser.py /var/log/apache2/other_vhosts_access.log
+© Falcon Elsystem 2021
